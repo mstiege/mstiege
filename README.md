@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mstiege
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in history, economics, tech
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...idk yet :)
 - 📫 How to reach me on twitter at stiegerma
 
 <!---
