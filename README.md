@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mstiege
 - 👀 I’m interested in history, economics, tech
 - 🌱 I’m currently learning python
-- 📫 How to reach me: twitter at stiegerma
 
 <!---
 mstiege/mstiege is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
