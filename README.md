@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mstiege
-- 👀 I’m interested in history, economics, fintech
+- 👀 I’m interested in economics, finance
 - 🌱 I’m currently learning python
 
 <!---
